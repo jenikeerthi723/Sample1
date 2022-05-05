@@ -8,7 +8,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       {/* <ContactsTest/> */}
-     {/* <ImagePickerTest/> */}
+     <ImagePickerTest/>
      {/* <Test3/> */}
      {/* <Text>hi</Text> */}
      <Text>
